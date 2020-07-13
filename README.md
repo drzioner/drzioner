@@ -1,6 +1,6 @@
-### Hola 🤓
+### Hola! 🤓
 
-Soy **Deiner Vega** programador mucho gusto, aquí puedes saber un poco mas de mi.
+Mucho gusto, soy **Deiner Vega** un programador. Aquí puedes saber un poco mas de mi y de lo que hago.
 
 Me encantan las series, una buena taza de café y mucho código.
 
